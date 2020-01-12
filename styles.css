@@ -1,0 +1,53 @@
+body{
+    padding:0px;
+    margin:0px;
+    background-color: rgba(122, 212, 11, 0.3);
+}
+.header{
+    color : white;
+    background-color: lightblue;
+    text-align : center;
+    /* margin-top: 10px; */
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+p{
+    margin:0px;
+    margin-bottom: 5px;
+}
+#color{
+    margin: 20px 0 0 0;
+}
+.navbar{
+    background-color: white;
+    color: black;
+    padding-left: 10%;
+    height: 30px;
+}
+#s2{
+    margin-left: 50%;
+}
+button{
+    text-transform: uppercase;
+    background: none;
+    font-size: 1.2rem;
+    border: none;
+    height: 100%;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+    outline: none;
+}
+button:hover{
+    background-color: aqua;
+}
+.c{
+    width: 130px;
+    height: 130px;
+    background-color:black;
+    display: inline-block;
+    border-radius: 20px;
+}
+.combined{
+    margin-left: 37%;
+    margin-top: 20px;
+}
